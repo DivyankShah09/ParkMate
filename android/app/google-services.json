@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154422495760",
+    "project_id": "parkmate-flutter",
+    "storage_bucket": "parkmate-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154422495760:android:3d5c46bf2861d31cbf9895",
+        "android_client_info": {
+          "package_name": "com.example.parkmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdXxgRdGPlaNtJzgQwAiqIX94VmqW5O_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

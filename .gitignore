@@ -1,0 +1,11 @@
+**/node_modules
+.dart_tool/
+build/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.env
+
+.DS_Store
+**/.DS_Store
